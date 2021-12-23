@@ -3,6 +3,7 @@ body{
 }
 
 .header{
+    position : sticky;
     text-align: center;
     color: gray;
     top: 0; 
@@ -27,8 +28,7 @@ a:hover{
     font-size: large;
 }
 
-.project{
-    position: sticky;
+.project{8
     border: 1px solid grey;
     border-radius: 20px;
     margin: 2% 1%;
