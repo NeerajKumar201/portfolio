@@ -3,12 +3,12 @@ body{
 }
 
 .header{
-    position : sticky;
     text-align: center;
     color: gray;
     top: 0; 
 }
 .name{
+    position : sticky;
     margin: 3%;
     background-color: lavenderblush;
 }
